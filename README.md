@@ -1,16 +1,22 @@
-## Hi there 👋
+# Vicente Hacking
 
-<!--
-**VicenteHackingg/VicenteHackingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Hacker Ético • Desenvolvedor
+```
+Desenvolvedor focado em segurança da informação, automação e desenvolvimento web.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre
+Hacker ético
+Desenvolvimento web e back-end
+Automação com Python
+Estudos em segurança ofensiva e defensiva
+Tecnologias
+Linguagens
+<p> <img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,cs" /> </p>
+Banco de Dados
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p> <p> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> </p>
+GitHub Stats
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/> </p>
+Contato
+GitHub: github.com/SEUUSUARIO
+Email: voce@email.com
