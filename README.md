@@ -7,10 +7,13 @@ Desenvolvedor focado em segurança da informação, automação e desenvolviment
 
 Sobre
 Hacker ético
+
 Desenvolvimento web e back-end
-Automação com Python
+
 Estudos em segurança ofensiva e defensiva
+
 Tecnologias
+
 Linguagens
 <p> <img src="https://skillicons.dev/icons?i=html,css,php,python,cpp,cs" /> </p>
 Banco de Dados
